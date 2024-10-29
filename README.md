@@ -1,6 +1,6 @@
 Bike Sales Data Analysis 🚲<br>
 This project analyzes bike sales data using Excel, providing valuable insights through a user-friendly dashboard. The goal was to explore key trends and factors affecting bike sales, including seasonal patterns, customer demographics, and sales performance across different product categories.
-<br>
+<br><br>
 Project Overview<br>
 Using Excel, I developed a comprehensive dashboard to visualize important metrics such as:<br>
 
